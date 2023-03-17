@@ -8,7 +8,7 @@ def calculate_elo_rating(winner, loser, winner_score, loser_score):
     """
     Calculates new ELO rating for players based on match results and returns updated ELO ratings.
     """
-    K = 32  # ELO coefficient
+    K = 50  # ELO coefficient
     winner_expected = 1 / (1 + 10 ** ((loser - winner) / 400))
     loser_expected = 1 / (1 + 10 ** ((winner - loser) / 400))
     winner_new_elo = winner + K * (winner_score / 5 - winner_expected)
