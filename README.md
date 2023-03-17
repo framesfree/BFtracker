@@ -1,4 +1,4 @@
-# Baby Foot tornament tracker
+# Baby Foot tournament tracker
 With Elo rating system
 
 How to use:
