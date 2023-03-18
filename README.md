@@ -25,4 +25,5 @@ The script will calculate and output the ratings and log personal development fo
 
 Here is the typical console output:
 
-![image](https://user-images.githubusercontent.com/1450852/226056017-2c04248d-a958-4941-9fb7-cfe5a5ccf79e.png)
+![image](https://user-images.githubusercontent.com/1450852/226075025-731c6096-ed64-43f1-8e54-319ffd0e8bfe.png)
+
