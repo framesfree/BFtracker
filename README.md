@@ -21,7 +21,7 @@ Where `Player1` and `Player2` are in the **Team 1** and `Player3` and `Player4` 
 ```
 python3 main.py
 ```
-The script will calculate and output the ratings and log personal development for every player in a separate csv file in the `player_stats` folder.
+The script will calculate and output the ratings and log personal development for every player in an xlsx file in the `player_stats` folder.
 
 Here is the typical console output:
 
