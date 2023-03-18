@@ -2,7 +2,7 @@
 With Elo rating system
 
 How to use:
-1. Install [Python](https://www.python.org/). *For example, `winget install python` in your PowerShell if you are running Windows.*
+1. Install [Python](https://www.python.org/). *For example, run `winget install python` in your PowerShell if you are running Windows.*
 
 2. Clone this repository by running in your command line:
 ```
