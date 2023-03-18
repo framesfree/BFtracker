@@ -1,0 +1,5 @@
+tabulate
+termcolor
+pandas
+openpyxl
+tqdm
