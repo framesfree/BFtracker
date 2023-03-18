@@ -30,6 +30,7 @@ Here is the typical console output:
 ![image](https://user-images.githubusercontent.com/1450852/226075025-731c6096-ed64-43f1-8e54-319ffd0e8bfe.png)
 
 #Todo:
-[] Change the input file from CSV to XLSX
-[] Adjust Elo factor according to user prompt
-[] Improve performance
+
+[ ] Change the input file from CSV to XLSX
+[ ] Adjust Elo factor according to user prompt
+[ ] Improve performance
