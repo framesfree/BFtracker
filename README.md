@@ -1,5 +1,7 @@
-# Baby Foot tournament tracker
-With Elo rating system
+# Fuseball tournament tracker
+
+A tracker to calculate the rating of each player in the local fuseball tournament. Calculations are based on the Elo rating. Points are assigned or deducted based on the weighted average which depends on the score difference.
+The tracker provides statistics per player and tournament rankings.
 
 How to use:
 1. Install [Python](https://www.python.org/). *For example, run `winget install python` in your PowerShell if you are running Windows.*
@@ -27,3 +29,7 @@ Here is the typical console output:
 
 ![image](https://user-images.githubusercontent.com/1450852/226075025-731c6096-ed64-43f1-8e54-319ffd0e8bfe.png)
 
+#Todo:
+[] Change the input file from CSV to XLSX
+[] Adjust Elo factor according to user prompt
+[] Improve performance
