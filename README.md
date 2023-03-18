@@ -31,6 +31,6 @@ Here is the typical console output:
 
 # Todo:
 
-[ ] Change the input file from CSV to XLSX
-[ ] Adjust Elo factor according to user prompt
-[ ] Improve performance
+- [ ] Change the input file from CSV to XLSX
+- [ ] Adjust Elo factor according to user prompt
+- [ ] Improve performance
